@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Receta de Pizza</title>
+  <link rel="stylesheet" href="Pagina_de_cocina.css">
+</head>
+<body class="showcase">
+<div>
+<div class="conteine">
+    <div class="titulo">
+        <h1>Pizza artesanal</h1>
+    </div>
+  
+    </div class="ingredientes">
+        <h2>Ingredientes:</h2>
+        <ul>
+            <li>1 shot de espresso</li>
+            <li>1/2 taza de leche caliente</li>
+            <li>Azúcar al gusto</li>
+        </ul>
+    </div>
+    </div class="intro">
+    <div class="receta">
+        <h2 class="subtitulo">Pasos:</h2>
+        <ol>
+            <li>Prepara un shot de espresso utilizando una máquina de café espresso o una cafetera moka.</li>
+            <li>Calienta la leche en una jarra de leche o en un recipiente apto para microondas hasta que esté caliente pero no hirviendo.</li>
+            <li>Si lo deseas, puedes espumar la leche utilizando un vaporizador de leche o un batidor de leche manual para obtener una textura más cremosa.</li>
+            <li>Vierte el espresso en una taza pequeña o una taza de cortado.</li>
+            <li>Agrega la leche caliente a la taza, vertiéndola lentamente para crear una capa de leche sobre el espresso.</li>
+            <li>Agrega azúcar al gusto y revuelve suavemente para mezclar.</li>
+            <li>¡Disfruta de tu delicioso cortado!</li>
+        </ol>
+    </div>
+    <div class ="img">
+        <img src="https://bebetucafe.com/wp-content/uploads/2022/09/Preparar-el-Cafe-cortado.jpg.webp" width="390" height="200" />
+    </div>
+    </div>
+</div>
+</div>
+</body>
+</html>

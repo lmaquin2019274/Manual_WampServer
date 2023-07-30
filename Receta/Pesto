@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Receta de Pizza</title>
+  <link rel="stylesheet" href="Pagina_de_cocina.css">
+</head>
+<body class="showcase">
+<div>
+<div class="conteine">
+    <div class="titulo">
+        <h1>Pizza artesanal</h1>
+    </div>
+  
+    </div class="ingredientes">
+        <h2>Ingredientes:</h2>
+        <ul>
+            <li>500 g de ñoquis (pueden ser caseros o comprados)</li>
+            <li>2 tazas de hojas de albahaca fresca</li>
+            <li>1/2 taza de queso parmesano rallado</li>
+            <li>1/4 taza de piñones (pueden sustituirse por nueces)</li>
+            <li>2 dientes de ajo</li>
+            <li>1/2 taza de aceite de oliva extra virgen</li>
+            <li>Sal y pimienta al gusto</li>
+        </ul>
+    </div>
+    </div class="intro">
+    <div class="receta">
+        <h2 class="subtitulo">Pasos:</h2>
+        <ol>
+            <li>En una olla grande, hierve agua con sal y cocina los ñoquis según las instrucciones del paquete o hasta que estén tiernos. Si utilizas ñoquis caseros, cocínalos hasta que floten en la superficie del agua.</li>
+            <li>Mientras tanto, prepara el pesto. En un procesador de alimentos, combina las hojas de albahaca, el queso parmesano, los piñones y los dientes de ajo. Tritura hasta obtener una mezcla gruesa.</li>
+            <li>Añade gradualmente el aceite de oliva mientras sigues triturando la mezcla, hasta obtener una consistencia suave y homogénea.</li>
+            <li>Sazona el pesto con sal y pimienta al gusto.</li>
+            <li>Cuando los ñoquis estén listos, escúrrelos del agua de cocción y mézclalos con el pesto en la misma olla o en un recipiente grande.</li>
+            <li>Revuelve suavemente para cubrir los ñoquis con la salsa de pesto.</li>
+            <li>Sirve los ñoquis al pesto caliente, espolvoreados con un poco de queso parmesano adicional si lo deseas.</li>
+        </ol>
+    </div>
+    <div class ="img">
+        <img src="https://www.coosur.com/uploads/recetasaceiteoliva/noquis-caseros-al-pesto.jpg" width="390" height="200" />
+    </div>
+    </div>
+</div>
+</div>
+</body>
+</html>

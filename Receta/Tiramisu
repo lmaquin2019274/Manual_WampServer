@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Receta de Pizza</title>
+  <link rel="stylesheet" href="Pagina_de_cocina.css">
+</head>
+<body class="showcase">
+<div>
+<div class="conteine">
+    <div class="titulo">
+        <h1>Pizza artesanal</h1>
+    </div>
+  
+    </div class="ingredientes">
+        <h2>Ingredientes:</h2>
+        <ul>
+            <li>200 g de bizcochos de soletilla</li>
+            <li>250 g de queso mascarpone</li>
+            <li>3 huevos</li>
+            <li>100 g de azúcar</li>
+            <li>200 ml de café espresso</li>
+            <li>2 cucharadas de cacao en polvo</li>
+            <li>2 cucharadas de licor de café (opcional)</li>
+        </ul>
+    </div>
+    </div class="intro">
+    <div class="receta">
+        <h2 class="subtitulo">Pasos:</h2>
+        <ol>
+            <li>Prepara una taza de café espresso y déjalo enfriar.</li>
+            <li>En un tazón, separa las claras de huevo de las yemas.</li>
+            <li>Agrega el azúcar a las yemas y bátelas hasta obtener una mezcla homogénea y cremosa.</li>
+            <li>Añade el queso mascarpone a las yemas y mezcla bien hasta obtener una crema suave.</li>
+            <li>En otro tazón, bate las claras de huevo a punto de nieve hasta que estén firmes.</li>
+            <li>Incorpora las claras batidas a la mezcla de yemas y queso mascarpone con movimientos suaves y envolventes.</li>
+            <li>Añade el licor de café al café espresso (opcional) y remoja los bizcochos de soletilla uno por uno en el café.</li>
+            <li>Coloca una capa de bizcochos remojados en el fondo de un molde rectangular.</li>
+            <li>Cubre los bizcochos con una capa de la mezcla de queso y repite el proceso, alternando capas de bizcochos y crema.</li>
+            <li>Finaliza con una capa de crema y espolvorea el cacao en polvo por encima.</li>
+            <li>Refrigera el Tiramisú durante al menos 4 horas, o preferiblemente durante toda la noche, para que adquiera mejor sabor y consistencia.</li>
+            <li>Sirve frío y disfruta de este delicioso postre italiano.</li>
+        </ol>
+    </div>
+    <div class ="img">
+        <img src="https://www.cocinavital.mx/wp-content/uploads/2019/05/tiramisu-clasico-pasos-09.jpg" width="390" height="200" />
+    </div>
+    </div>
+</div>
+</div>
+</body>
+</html>
